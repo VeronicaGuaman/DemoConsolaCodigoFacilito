@@ -1,4 +1,4 @@
-En este proyecto trabajamos con las funcionalidades clave de C# 12
+En este proyecto encontrarán un proyecto guía y el proyecto finalizado del desarrollado en la primera clase
 
 Consideraciones
 
