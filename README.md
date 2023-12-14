@@ -6,4 +6,4 @@ Consideraciones
 - Deben configurar sus credenciales
 
 Para clonar el repositorio desde la consola git
-git clone https://github.com/VeronicaGuaman/DemoConsolaCodigoFacilito)https://github.com/VeronicaGuaman/DemoConsolaCodigoFacilito
+git clone https://github.com/VeronicaGuaman/DemoConsolaCodigoFacilito
